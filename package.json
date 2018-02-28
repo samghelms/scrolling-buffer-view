@@ -1,0 +1,27 @@
+{
+  "name": "buffer-view",
+  "version": "1.0.0",
+  "description": "A ring-buffer inspired view component",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samghelms/scrolling-buffer-view.git"
+  },
+  "keywords": [
+    "javascript",
+    "scroll",
+    "buffer"
+  ],
+  "author": "Sam Helms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samghelms/scrolling-buffer-view/issues"
+  },
+  "homepage": "https://github.com/samghelms/scrolling-buffer-view#readme"
+}
